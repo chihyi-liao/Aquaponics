@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aquaponics</string>
+    <string name="action_settings">Settings</string>
+    <string name="connectStatus">未連接</string>
+    <string name="tempStatus">未知</string>
+    <string name="humidityStatus">未知</string>
+    <string name="relay1Status">未知</string>
+    <string name="relay2Status">未知</string>
+    <string name="relay3Status">未知</string>
+    <string name="relay4Status">未知</string>
+</resources>
